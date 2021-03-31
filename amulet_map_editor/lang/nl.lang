@@ -1,0 +1,69 @@
+world.java_platform=Java
+world.bedrock_platform=Bedrock
+world.close_world=Sluit Wereld
+
+select_world.open_world_button=Open andere wereld
+select_world.open_world_dialogue=Selecteer een Minecraft wereld directory
+select_world.select_directory_failed=openen van directory gefaald!
+select_world.recent_worlds=Recent geopende Werelden
+
+main_menu.tab_name=Main Menu
+main_menu.open_world=Open wereld
+main_menu.help=Help
+
+program_about.tab_name=Over
+program_about.currently_opened_world=Momenteel geopende wereld
+program_about.choose_from_options=Kies van de opties links van wat je zou willen doen.\nJe kan op elk moment veranderen tussen de twee.
+
+program_convert.tab_name=Omzetten
+program_convert.convert_button=Omzetten
+program_convert.input_world=Input Wereld
+program_convert.output_world=Output Wereld
+program_convert.select_output_world=Selecteer Output Wereld
+program_convert.input_output_must_different=de input en output werelden moetten verschillen!
+program_convert.select_before_converting=Selecteer een wereld voor het omzetten!
+program_convert.conversion_completed=Wereld omzetting compleet
+
+program_3d_edit.tab_name=3D Editor
+
+program_3d_edit.select_tool.delete_button=Verwijder
+program_3d_edit.select_tool.delete_button_tooltip=Verwijder de blokken in de geselecteerde oppervlakte.
+program_3d_edit.select_tool.copy_button=Kopiëer
+program_3d_edit.select_tool.copy_button_tooltip=Kopiëer de geselecteerde oppervlakte om later the plakken. Kan ook geplakt worden in elke wereld of dimensie.
+program_3d_edit.select_tool.cut_button=Knip
+program_3d_edit.select_tool.cut_button_tooltip=Kopiëer de geselecteerde oppervlakte om later te plakken en te verwijderen. Kan ook geplakt worden in elke wereld of dimensie.
+program_3d_edit.select_tool.paste_button=Plakken
+program_3d_edit.select_tool.paste_button_tooltip=Plak een hiervoor gekopiëerde of geknipte oppervlakte in een wereld of dimensie.
+
+program_3d_edit.select_tool.scroll_point_x1=x1
+program_3d_edit.select_tool.scroll_point_y1=y1
+program_3d_edit.select_tool.scroll_point_z1=z1
+program_3d_edit.select_tool.scroll_point_x2=x2
+program_3d_edit.select_tool.scroll_point_y2=y2
+program_3d_edit.select_tool.scroll_point_z2=z2
+program_3d_edit.select_tool.scroll_point_x1_tooltip=Zet de x coordinaat van de active box zijn groene hoek. Type een nummer of scroll tijdens zweven.
+program_3d_edit.select_tool.scroll_point_y1_tooltip=Zet de y coordinaat van de active box zijn groene hoek. Type een nummer of scroll tijdens zweven.
+program_3d_edit.select_tool.scroll_point_z1_tooltip=Zet de z coordinaat van de active box zijn groene hoek. Type een nummer of scroll tijdens zweven.
+program_3d_edit.select_tool.scroll_point_x2_tooltip=Zet de x coordinaat van de active box zijn blauwe hoek. Type een nummer of scroll tijdens zweven.
+program_3d_edit.select_tool.scroll_point_y2_tooltip=Zet de y coordinaat van de active box zijn blauwe hoek. Type een nummer of scroll tijdens zweven.
+program_3d_edit.select_tool.scroll_point_z2_tooltip=Zet de z coordinaat van de active box zijn blauwe hoek. Type een nummer of scroll tijdens zweven.
+
+program_3d_edit.select_tool.box_size_fstring=dx={x},dy={y},dz={z}
+program_3d_edit.select_tool.box_size_tooltip=De grootte van de active selectie box in blokken.
+
+program_3d_edit.select_tool.button_point1=Beweeg Punt 1
+program_3d_edit.select_tool.button_point1_tooltip=Druk en houd deze knop ingedrukt en gebruik beweging toetsen om de groene selectie te bewegen.
+program_3d_edit.select_tool.button_point2=Beweeg Punt 2
+program_3d_edit.select_tool.button_point2_tooltip=Druk en houd deze knop ingedrukt en gebruik beweging toetsen om de blauwe selectie te bewegen.
+program_3d_edit.select_tool.button_selection_box=Beweeg Box
+program_3d_edit.select_tool.button_selection_box_tooltip=Druk en houd deze knop ingedrukt en gebruik beweging toetsen om de box te bewegen.
+
+program_3d_edit.goto_ui.title=Teleporteer
+program_3d_edit.goto_ui.x_label=x:
+program_3d_edit.goto_ui.x_label_tooltip=De x coordinaat van de camera. Type een coordinaat om naar de locatie te gaan. Ctrl + C om de coordinaten te kopiëren. Ctrl + V om te plakken.
+program_3d_edit.goto_ui.y_label=y:
+program_3d_edit.goto_ui.y_label_tooltip=De y coordinaat van de camera. Type een coordinaat om naar de locatie te gaan. Ctrl + C om de coordinaten te kopiëren. Ctrl + V om te plakken.
+program_3d_edit.goto_ui.z_label=z:
+program_3d_edit.goto_ui.z_label_tooltip=De z coordinaat van de camera. Type een coordinaat om naar de locatie te gaan. Ctrl + C om de coordinaten te kopiëren. Ctrl + V om te plakken.
+program_3d_edit.goto_ui.copy_button_tooltip=Kopiëer de x, y en z waarden naar het klembord in de vorm van "0.0 0.0 0.0" (x, y and z in deze volgorde)
+program_3d_edit.goto_ui.paste_button_tooltip=Plak een hiervoor gekopiëerde coordinaat in de inputs. Gekopiëerde waarden moeten drie nummers geplitst zijn met spaties of kommas.
